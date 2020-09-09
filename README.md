@@ -1,1 +1,1 @@
-# Sweety2
+# SweetBot-Heroku
